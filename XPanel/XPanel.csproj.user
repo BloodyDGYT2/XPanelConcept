@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Firmware.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="UltralightX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelDongleLED.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelDPI.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelLOD.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelMotionSync.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelOverview.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="XPanelControllers\XPanelPollingRate.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

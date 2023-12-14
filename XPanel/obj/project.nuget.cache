@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vMK3RW3CND5GFmQc1mnZkBDu4jbywGnNPUGZgFZvbYREZ8M4I1ugz2WnriogA5rwyF9mGNpECBgxrYtJ8M1cUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Peyto\\OneDrive\\Desktop\\XPanel\\XPanel\\XPanel\\XPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Peyto\\.nuget\\packages\\guna.ui2.winforms\\2.0.4.6\\guna.ui2.winforms.2.0.4.6.nupkg.sha512",
+    "C:\\Users\\Peyto\\.nuget\\packages\\system.codedom\\6.0.0\\system.codedom.6.0.0.nupkg.sha512",
+    "C:\\Users\\Peyto\\.nuget\\packages\\system.management\\6.0.0\\system.management.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
